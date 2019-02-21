@@ -23,10 +23,6 @@ namespace TestingSystem.Data
         }
 
 
-
-
-
-
         public DbSet<Group> Groups { get; set; }
 
 

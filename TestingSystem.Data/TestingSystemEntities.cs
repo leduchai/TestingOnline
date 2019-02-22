@@ -19,7 +19,6 @@ namespace TestingSystem.Data
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             // Configtion
-
         }
 
 

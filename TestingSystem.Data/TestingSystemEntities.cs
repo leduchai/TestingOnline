@@ -10,7 +10,6 @@ namespace TestingSystem.Data
         {
         }
        
-
         public virtual void Commit()
         {
             base.SaveChanges();
@@ -20,7 +19,6 @@ namespace TestingSystem.Data
         {
             // Configtion
         }
-
 
         public DbSet<Group> Groups { get; set; }
 

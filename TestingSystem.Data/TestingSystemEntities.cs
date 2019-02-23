@@ -18,6 +18,7 @@ namespace TestingSystem.Data
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             // Configtion
+
         }
 
         public DbSet<Group> Groups { get; set; }

@@ -6,11 +6,7 @@ namespace TestingSystem.Data.Migrations
     {
         public Configuration()
         {
-            
-
-
-
-		AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = false;
         }
 
         protected override void Seed(TestingSystemEntities context)

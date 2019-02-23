@@ -18,11 +18,6 @@ namespace TestingSystem.Data
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             // Configtion
-<<<<<<< HEAD
-=======
-
-        }
->>>>>>> parent of cc2411f... test commit 5
 
         }
 
